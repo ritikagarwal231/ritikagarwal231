@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on improving my CP skills and at the same doing my GRIP virtual internship in web development field.
+- 🌱 I’m currently learning DSA and react
+- 👯 I’m looking to collaborate on online hackathons , need some who is intermediate in backend development.
+- 📫 How to reach me: mail me at ritikagarwal231@gmail.com
+- ⚡ Fun fact: I am basically an otaku and anime geek fan. 
 <!--
 **ritikagarwal231/ritikagarwal231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
